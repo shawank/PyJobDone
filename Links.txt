@@ -1,0 +1,2 @@
+http://www.cs.bc.edu/~straubin/cs101-2015/GUITemplate.html
+http://upstart.ubuntu.com/cookbook/#respawn
